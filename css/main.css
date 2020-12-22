@@ -1,0 +1,29 @@
+/***IMPORTS***/
+@import url("reset.css");
+@import url("typography.css");
+
+/***BASE STYLES***/
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  background-color: #212121;
+  color: #212121;
+  font-size: 28rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #0adfa9;
+  padding: 10rem;
+}

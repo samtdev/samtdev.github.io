@@ -1,0 +1,10 @@
+html {
+  font-size: 1px;
+  /*FOR USING REM UNITS*/
+}
+
+body {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 16rem;
+  font-weight: 400;
+}
